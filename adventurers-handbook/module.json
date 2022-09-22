@@ -1,0 +1,32 @@
+	{
+		"name": "adventurers-handbook",
+		"title": "The Adventurer's Handbook",
+		"description": "Feats from The Adventurer's Handbook by James Beck and Luigi Lizza with Eldritch Osiris Games.",
+		"version": "1.0",
+		"compatibility": {
+		  "minimum": "10",
+		  "verified": "10.286"
+		  },
+		"author": "Pardack",
+		"packs": [{
+				"label": "The Adventurer's Handbook Feats",
+				"type": "Item",
+				"name": "the-adventurers-handbook-feats",
+				"path": "./packs/the-adventurers-handbook-feats.db",
+				"system": "pf2e",
+				"package": "adventurers-handbook",
+				"private": false
+			}
+		],
+		"esmodules": [],
+		"styles": [],
+		"socket": false,
+		"system": [
+			"pf2e"
+		],
+		"minimumSystemVersion": "4.10",
+
+		"manifest":"https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-adventurers-handbook/main/module.json",
+		"download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-adventurers-handbook/archive/refs/heads/main.zip",
+		"url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-adventurers-handbook/"
+	}
