@@ -2,10 +2,10 @@
   "id": "adventurers-handbook",
   "title": "The Adventurer's Handbook",
   "description": "Feats from The Adventurer's Handbook by James Beck and Luigi Lizza with Eldritch Osiris Games.",
-  "version": "1.0",
+  "version": "1.1",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.286"
+    "minimum": "11",
+    "verified": "11"
   },
   "author": "Pardack",
   "packs": [
@@ -28,8 +28,8 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.12.0",
-          "verified": "4.12.9"
+          "minimum": "5",
+          "verified": "5"
         }
       }
     ]
