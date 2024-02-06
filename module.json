@@ -28,13 +28,12 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "5",
-          "verified": "5"
+          "minimum": "5.6.0",
+          "verified": "5.13.0"
         }
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-adventurers-handbook/main/module.json",
-  "download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-adventurers-handbook/archive/refs/heads/main.zip",
-  "url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-adventurers-handbook/"
+  "manifest": "https://github.com/mkniller/foundry-pf2e-adventurers-handbook/releases/latest/download/module.json",
+  "download": "https://github.com/mkniller/foundry-pf2e-adventurers-handbook/archive/refs/tags/v1.1",
 }
